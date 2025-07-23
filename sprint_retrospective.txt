@@ -1,0 +1,15 @@
+Retrospectiva da Sprint 1
+
+Pontos Positivos:
+
+A estratégia de ramificação (branching) para as funcionalidades index e contato demonstrou-se eficaz e de fácil compreensão para a equipe.
+
+A implementação das modificações em HTML foi direta, beneficiada pela clareza e boa definição das User Stories.
+
+A integração do código na branch principal (main/master) ocorreu sem conflitos ou impedimentos.
+
+A adoção do Git e GitHub provou ser valiosa para o controle de versão e para a manutenção de um histórico claro das alterações.
+
+Pontos a Melhorar:
+
+As estimativas iniciais de tempo e complexidade se mostraram um tanto imprecisas, não considerando totalmente a curva de aprendizado da equipe.
