@@ -1,0 +1,47 @@
+Sprint Backlog -
+DESAFIO_VERSIONAMENTO
+Com base na análise do repositório e do Product Backlog fornecido, o seguinte sprint
+backlog é proposto:
+User Stories e Tarefas
+US 1: Como cliente da empresa e usuário do portal, eu quero, na
+página index, ver a fonte com os nomes dos veículos na cor azul para
+me proporcionar uma melhor experiência de usuário.
+Observação: A cor azul já está implementada. A melhoria aqui seria refinar a
+experiência do usuário além da cor, talvez com um design mais moderno ou
+responsivo.
+Prioridade: Média 
+Tarefas Sugeridas:
+[ ] Analisar o design atual da index.html e identificar oportunidades de
+melhoria de UX/UI.
+[ ] Propor e implementar pequenas melhorias visuais na index.html .
+[ ] Garantir que a página index.html seja responsiva para diferentes
+tamanhos de tela.
+US 2: Como cliente da empresa e usuário do portal, eu gostaria de
+acessar os detalhes dos veículos com menos cliques para eu otimizar
+meu tempo de acesso ao portal.
+Observação: Não há página de detalhes de veículos. Esta é uma funcionalidade
+crucial a ser desenvolvida.
+Prioridade: Alta (nova funcionalidade)
+Tarefas Sugeridas:
+[ ] Criar uma nova página detalhes_veiculo.html para exibir informações
+detalhadas de um veículo.
+[ ] Implementar links na index.html para cada veículo, direcionando para
+a detalhes_veiculo.html com o ID do veículo (ou nome, se não houver
+ID).
+[ ] Desenvolver a lógica para carregar os dados do veículo na página
+detalhes_veiculo.html (simulado, se não houver backend).
+[ ] Adicionar informações relevantes do veículo (ex: especificações, fotos,
+preço) na página de detalhes.
+US 3: Como cliente da empresa e usuário do portal, eu quero, na
+página contato, que os nomes dos links para as outras páginas sejam
+mais detalhadas para facilitar o meu entendimento e a minha
+navegação no portal.
+Observação: Os links já são razoavelmente descritivos, mas podem ser
+aprimorados para maior clareza e consistência.
+Prioridade: Média (melhoria)
+Tarefas Sugeridas:
+[ ] Revisar os textos dos links na contato.html para torná-los mais
+explícitos e amigáveis.
+[ ] Padronizar a nomenclatura dos links em todo o site, se aplicável.
+[ ] Garantir que os links funcionem corretamente e levem às páginas
+esperadas.
